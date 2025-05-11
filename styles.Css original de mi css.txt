@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+}
+
+a{
+ text-decoration: none;
+ font-weight: bold;  
+ color:#d65db1; 
+}
+
+.menu {
+    list-style: none;
+    position:sticky;
+    background: rgb(151, 205, 230);
+    top: 0;
+}
+.gradiente{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    color:rgb(245, 237, 237);
+    padding: 30px;
+    
+}
+.posicion{
+    position:absolute;
+    top: 1px;
+    left: 350.10px;
+}
+.caja1 {
+    position:absolute
+    left: 50px;
+    background: rgb(79, 136, 158);
+    background: radial-gradient(circle, rgb(174, 209, 238) 0%, rgb(117, 157, 202) 100%);
+    transform: translate(20%,20%);
+}
+.contenedor{
+    padding: 20px;
+    width: 700px;
+    margin: 0 auto;
+}
