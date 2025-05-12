@@ -47,5 +47,5 @@ ReactDOM.render(
      document.getElementById("proyecto-Biografia"));
 
 ReactDOM.render(
-    <Proyecto titulo="Sitio-web" descripcion="Son las diferentes publicaciones del cual presentamos nuestros grupos de oportunidades" imagen="imagen/sitiosweb.jpg" link="https://instagram.com/compras.pasoapaso/" boton="primary" />,
+    <Proyecto titulo="Sitio-web" descripcion="Son las diferentes publicaciones del cual presentamos nuestros grupos de oportunidades" imagen="imagen/1er grupoempleos.mp4" link="https://uruvene.com/" boton="primary" />,
     document.getElementById("proyecto-Sitio-Web"));
